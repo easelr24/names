@@ -1,0 +1,23 @@
+{
+  "name": "plumbedies43-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plumbedies43/names.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"plumbedies43": "^1.0.0",
+	"rudrakamillaq474-one": "^1.0.0",
+  	"shanersegarram": "^1.0.0",
+	"shanersegarram-one": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
